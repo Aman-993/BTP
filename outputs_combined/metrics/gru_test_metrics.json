@@ -1,0 +1,7 @@
+{
+  "model": "gru",
+  "test_rmse": 18.786479949951172,
+  "test_mae": 13.839889526367188,
+  "test_score": 6917.66552734375,
+  "parameter_count": 44353
+}

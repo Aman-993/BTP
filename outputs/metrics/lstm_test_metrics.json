@@ -1,0 +1,7 @@
+{
+  "model": "lstm",
+  "test_rmse": 17.59214973449707,
+  "test_mae": 14.77518081665039,
+  "test_score": 602.3779296875,
+  "parameter_count": 56641
+}

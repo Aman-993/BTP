@@ -1,0 +1,7 @@
+{
+  "model": "rnn",
+  "test_rmse": 33.36018371582031,
+  "test_mae": 28.11284828186035,
+  "test_score": 6521.71484375,
+  "parameter_count": 15745
+}
